@@ -22,7 +22,8 @@
     },
     "API_HASH": {
       "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
-},
+}
+  },
    "addons": [{
     "plan": "heroku-postgresql"
   }],
